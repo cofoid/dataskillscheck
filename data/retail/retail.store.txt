@@ -1,0 +1,105 @@
+locationid	City Name	territory	postalcode	sellingareasize	districtname	name	storenumbername	storenumber	city	chain	districtid	Store Type
+2	Weirton	WV	26032	40000	FD - District #4	Weirton Fashions Direct	2 - Weirton Fashions Direct	2	Weirton, WV	Fashions Direct	4	Same Store
+3	Beckley	WV	25801	40000	FD - District #2	Beckley Fashions Direct	3 - Beckley Fashions Direct	3	Beckley, WV	Fashions Direct	2	Same Store
+4	Fairmont	WV	26554	15000	FD - District #1	Fairmont Fashions Direct	4 - Fairmont Fashions Direct	4	Fairmont, WV	Fashions Direct	1	Same Store
+5	Uniontown	PA	15401	55000	FD - District #4	Uniontown Fashions Direct	5 - Uniontown Fashions Direct	5	Uniontown, PA	Fashions Direct	4	Same Store
+6	Parkersburg	WV	26101	60000	FD - District #2	Parkersburg Fashions Direct	6 - Parkersburg Fashions Direct	6	Parkersburg, WV	Fashions Direct	2	Same Store
+7	Belle Vernon	PA	15012	45000	FD - District #4	Belle Vernon Fashions Direct	7 - Belle Vernon Fashions Direct	7	Belle Vernon, PA	Fashions Direct	4	Same Store
+8	Lavale	MD	21502	40000	FD - District #1	Cumberland Fashions Direct	8 - Cumberland Fashions Direct	8	Lavale, MD	Fashions Direct	1	Same Store
+9	Clarksburg	WV	26330	40000	FD - District #1	Clarksburg Fashions Direct	9 - Clarksburg Fashions Direct	9	Clarksburg, WV	Fashions Direct	1	Same Store
+10	St. Clairsville	OH	43950	50000	FD - District #4	St. Clairsville Fashions Direct	10 - St. Clairsville Fashions Direct	10	St. Clairsville, OH	Fashions Direct	4	Same Store
+11	West Mifflen	PA	15122	55000	FD - District #4	Century III Fashions Direct	11 - Century III Fashions Direct	11	West Mifflen, PA	Fashions Direct	4	Same Store
+12	Kent	OH	44240	50000	FD - District #3	Kent Fashions Direct	12 - Kent Fashions Direct	12	Kent, OH	Fashions Direct	3	Same Store
+13	Charleston	WV	25387	55000	FD - District #2	Charleston Fashions Direct	13 - Charleston Fashions Direct	13	Charleston, WV	Fashions Direct	2	Same Store
+14	Harrisburg	PA	17109	65000	FD - District #1	Harrisburg Fashions Direct	14 - Harrisburg Fashions Direct	14	Harrisburg, PA	Fashions Direct	1	Same Store
+15	York	PA	17402	50000	FD - District #1	York Fashions Direct	15 - York Fashions Direct	15	York, PA	Fashions Direct	1	New Store
+16	Winchester	VA	22602	40000	FD - District #1	Winchester Fashions Direct	16 - Winchester Fashions Direct	16	Winchester, VA	Fashions Direct	1	New Store
+18	Washington	PA	15301	55000	FD - District #4	Washington Fashions Direct	18 - Washington Fashions Direct	18	Washington, PA	Fashions Direct	4	New Store
+19	Abingdon	MD	21009	50000	FD - District #1	Bel Air Fashions Direct	19 - Bel Air Fashions Direct	19	Abingdon, MD	Fashions Direct	1	Same Store
+20	Greensburg	PA	15601	55000	FD - District #4	Greensburg Fashions Direct	20 - Greensburg Fashions Direct	20	Greensburg, PA	Fashions Direct	4	Same Store
+21	Zanesville	OH	43701	50000	FD - District #4	Zanesville Fashions Direct	21 - Zanesville Fashions Direct	21	Zanesville, OH	Fashions Direct	4	Same Store
+22	Wickliffe	OH	44092	55000	FD - District #3	Wickliffe Fashions Direct	22 - Wickliffe Fashions Direct	22	Wickliffe, OH	Fashions Direct	3	Same Store
+23	Erie	PA	16505	40000	FD - District #3	Erie Fashions Direct	23 - Erie Fashions Direct	23	Erie, PA	Fashions Direct	3	Same Store
+24	North Canton	OH	44720	55000	FD - District #3	North Canton Fashions Direct	24 - North Canton Fashions Direct	24	North Canton, OH	Fashions Direct	3	Same Store
+25	Mansfield	OH	44906	50000	FD - District #3	Mansfield Fashions Direct	25 - Mansfield Fashions Direct	25	Mansfield, OH	Fashions Direct	3	Same Store
+26	Akron	OH	44313	55000	FD - District #3	Akron Fashions Direct	26 - Akron Fashions Direct	26	Akron, OH	Fashions Direct	3	Same Store
+27	Boardman	OH	44512	50000	FD - District #3	Boardman Fashions Direct	27 - Boardman Fashions Direct	27	Boardman, OH	Fashions Direct	3	Same Store
+28	Huntington	WV	25705	55000	FD - District #2	Huntington Fashions Direct	28 - Huntington Fashions Direct	28	Huntington, WV	Fashions Direct	2	Same Store
+31	Mentor	OH	44060	45000	FD - District #3	Mentor Fashions Direct	31 - Mentor Fashions Direct	31	Mentor, OH	Fashions Direct	3	Same Store
+32	Middleburg Heights	OH	44130	50000	FD - District #3	Middleburg Heights  Fashions Direct	32 - Middleburg Heights  Fashions Direct	32	Middleburg Heights, OH	Fashions Direct	3	Same Store
+33	Altoona	PA	16602	40000	FD - District #1	Altoona Fashions Direct	33 - Altoona Fashions Direct	33	Altoona, PA	Fashions Direct	1	Same Store
+34	Monroeville	PA	15146	40000	FD - District #4	Monroeville Fashions Direct	34 - Monroeville Fashions Direct	34	Monroeville, PA	Fashions Direct	4	New Store
+35	Sharonville	OH	45241	45000	FD - District #2	Sharonville Fashions Direct	35 - Sharonville Fashions Direct	35	Sharonville, OH	Fashions Direct	2	New Store
+36	Cincinnati	OH	45255	45000	FD - District #2	Cincinnati 2 Fashions Direct	36 - Beechmont Fashions Direct	36	Cincinnati, OH	Fashions Direct	2	New Store
+37	Pittsburgh	PA	15237	60000	FD - District #4	North Hills Fashions Direct	37 - North Hills Fashions Direct	37	Pittsburgh, PA	Fashions Direct	4	Same Store
+38	Lexington	KY	40509	40000	FD - District #2	Lexington Fashions Direct	38 - Lexington Fashions Direct	38	Lexington, KY	Fashions Direct	2	Same Store
+39	Morgantown	WV	26501	55000	FD - District #1	Morgantown Fashions Direct	39 - Morgantown Fashions Direct	39	Morgantown, WV	Fashions Direct	1	Same Store
+40	Beavercreek	OH	45431	45000	FD - District #2	Beavercreek Fashions Direct	40 - Beavercreek Fashions Direct	40	Beavercreek, OH	Fashions Direct	2	Same Store
+41	Cincinnati	OH	45248	45000	FD - District #2	Cincinnati Fashions Direct	41 - Cincinnati Fashions Direct	41	Cincinnati, OH	Fashions Direct	2	Same Store
+501	Frederick	MD	21701	10000	LI - District #1	Frederick Lindseys	501 - Frederick Lindseys	501	Frederick, MD	Lindseys	6	Same Store
+503	Fredericksburg	VA	22401	10000	LI - District #2	Fredericksburg Lindseys	503 - Fredericksburg Lindseys	503	Fredericksburg, VA	Lindseys	7	Same Store
+504	Gaithersburg	MD	20877	10000	LI - District #1	Gaithersburg Lindseys	504 - Gaithersburg Lindseys	504	Gaithersburg, MD	Lindseys	6	Same Store
+505	Laurel	MD	20707	10000	LI - District #1	Laurel Lindseys	505 - Laurel Lindseys	505	Laurel, MD	Lindseys	6	Same Store
+506	Manassas	VA	20109	10000	LI - District #2	Manassas Lindseys	506 - Manassas Lindseys	506	Manassas, VA	Lindseys	7	Same Store
+507	College Park	MD	20740	10000	LI - District #1	College Park Lindseys	507 - College Park Lindseys	507	College Park, MD	Lindseys	6	Same Store
+508	Pasadena	MD	21122	10000	LI - District #1	Pasadena Lindseys	508 - Pasadena Lindseys	508	Pasadena, MD	Lindseys	6	Same Store
+509	Annapolis	MD	21401	10000	LI - District #1	Annapolis Lindseys	509 - Annapolis Lindseys	509	Annapolis, MD	Lindseys	6	Same Store
+510	North Baltimore	MD	21234	10000	LI - District #1	North Baltimore Lindseys	510 - North Baltimore Lindseys	510	North Baltimore, MD	Lindseys	6	Same Store
+511	Bowie	MD	20715	10000	LI - District #1	Bowie Lindseys	511 - Bowie Lindseys	511	Bowie, MD	Lindseys	6	Same Store
+512	Roanoke	VA	24012	10000	LI - District #2	Roanoke Lindseys	512 - Roanoke Lindseys	512	Roanoke, VA	Lindseys	7	Same Store
+513	Waldorf	MD	20603	10000	LI - District #2	Waldorf Lindseys	513 - Waldorf Lindseys	513	Waldorf, MD	Lindseys	7	Same Store
+514	Glen Allen	VA	23060	10000	LI - District #2	Richmond Lindseys	514 - Richmond Lindseys	514	Glen Allen, VA	Lindseys	7	Same Store
+515	Richmond	VA	23235	10000	LI - District #2	Chesterfield Lindseys	515 - Chesterfield Lindseys	515	Richmond, VA	Lindseys	7	Same Store
+517	Lynchburg	VA	24502	15000	LI - District #2	Lynchburg Lindseys	517 - Lynchburg Lindseys	517	Lynchburg, VA	Lindseys	7	Same Store
+518	Alexandria	VA	22310	10000	LI - District #2	Alexandria Lindseys	518 - Alexandria Lindseys	518	Alexandria, VA	Lindseys	7	Same Store
+519	Colonial Heights	VA	23834	15000	LI - District #2	Colonial Heights Lindseys	519 - Colonial Heights Lindseys	519	Colonial Heights, VA	Lindseys	7	Same Store
+520	Greensboro	NC	27407	15000	LI - District #4	Greensboro Lindseys	520 - Greensboro Lindseys	520	Greensboro, NC	Lindseys	10	Same Store
+522	Cary	NC	27518	10000	LI - District #3	Cary Lindseys	522 - Cary Lindseys	522	Cary, NC	Lindseys	9	Same Store
+523	Harrisonburg	VA	22802	10000	LI - District #2	Harrisonburg Lindseys	523 - Harrisonburg Lindseys	523	Harrisonburg, VA	Lindseys	7	Same Store
+524	Christiansburg	VA	24073	10000	LI - District #2	Christiansburg Lindseys	524 - Christiansburg Lindseys	524	Christiansburg, VA	Lindseys	7	Same Store
+525	Raleigh	NC	27604	10000	LI - District #3	Raleigh Lindseys	525 - Raleigh Lindseys	525	Raleigh, NC	Lindseys	9	Same Store
+526	Newark	DE	19702	10000	LI - District #1	Glasgow Lindseys	526 - Glasgow Lindseys	526	Newark, DE	Lindseys	6	Same Store
+528	Durham	NC	27707	15000	LI - District #3	Durham  Lindseys	528 - Durham  Lindseys	528	Durham, NC	Lindseys	9	Same Store
+530	Asheville	NC	28803	10000	LI - District #4	Asheville Lindseys	530 - Asheville Lindseys	530	Asheville, NC	Lindseys	10	Same Store
+531	Winston-Salem	NC	27106	10000	LI - District #4	Winston-Salem Lindseys	531 - Winston-Salem Lindseys	531	Winston-Salem, NC	Lindseys	10	Same Store
+533	Charlotte	NC	28226	10000	LI - District #4	Pineville Lindseys	533 - Pineville Lindseys	533	Charlotte, NC	Lindseys	10	Same Store
+534	Mooresville	NC	28117	10000	LI - District #4	Mooresville Lindseys	534 - Mooresville Lindseys	534	Mooresville, NC	Lindseys	10	Same Store
+535	Clemmons	NC	27012	10000	LI - District #4	Clemmons Lindseys	535 - Clemmons Lindseys	535	Clemmons, NC	Lindseys	10	Same Store
+536	Statesville	NC	28625	10000	LI - District #4	Statesville Lindseys	536 - Statesville Lindseys	536	Statesville, NC	Lindseys	10	Same Store
+537	Fayetteville	NC	28303	10000	LI - District #3	Fayetteville Lindseys	537 - Fayetteville Lindseys	537	Fayetteville, NC	Lindseys	9	Same Store
+538	Hickory	NC	28602	15000	LI - District #4	Hickory Lindseys	538 - Hickory Lindseys	538	Hickory, NC	Lindseys	10	Same Store
+540	Wilmington	NC	28403	10000	LI - District #3	Wilmington Lindseys	540 - Wilmington Lindseys	540	Wilmington, NC	Lindseys	9	Same Store
+541	Florence	SC	29501	10000	LI - District #3	Florence Lindseys	541 - Florence Lindseys	541	Florence, SC	Lindseys	9	Same Store
+542	Greenville	SC	29607	10000	LI - District #4	Greenville Lindseys	542 - Greenville Lindseys	542	Greenville, SC	Lindseys	10	Same Store
+543	Sumter	SC	29150	10000	LI - District #3	Sumter Lindseys	543 - Sumter Lindseys	543	Sumter, SC	Lindseys	9	Same Store
+544	North Charleston	SC	29406	10000	LI - District #3	North Charleston Lindseys	544 - North Charleston Lindseys	544	North Charleston, SC	Lindseys	9	Same Store
+545	Greenville	NC	27858	10000	LI - District #3	Greenville Lindseys	545 - Greenville Lindseys	545	Greenville, NC	Lindseys	9	Same Store
+546	Wilmington	DE	19808	10000	LI - District #1	Wilmington Lindseys	546 - Wilmington Lindseys	546	Wilmington, DE	Lindseys	6	Same Store
+547	Laurel	MD	20724	15000	LI - District #1	Laurel Lindseys	547 - Laurel Lindseys	547	Laurel, MD	Lindseys	6	Same Store
+548	Athens	GA	30606	10000	LI - District #5	Athens Lindseys	548 - Athens Lindseys	548	Athens, GA	Lindseys	11	Same Store
+549	Charlotte	NC	28227	15000	LI - District #4	Charlotte Lindseys	549 - Charlotte Lindseys	549	Charlotte, NC	Lindseys	10	Same Store
+550	Kannapolis	NC	28083	15000	LI - District #4	Kannapolis Lindseys	550 - Kannapolis Lindseys	550	Kannapolis, NC	Lindseys	10	Same Store
+551	Anderson	SC	29621	20000	LI - District #4	Anderson Lindseys	551 - Anderson Lindseys	551	Anderson, SC	Lindseys	10	Same Store
+554	Augusta	GA	30909	10000	LI - District #5	Augusta Lindseys	554 - Augusta Lindseys	554	Augusta, GA	Lindseys	11	Same Store
+555	Cartersville	GA	30120	15000	LI - District #5	Cartersville Lindseys	555 - Cartersville Lindseys	555	Cartersville, GA	Lindseys	11	Same Store
+556	Johnson City	TN	37604	10000	LI - District #5	Johnson City Lindseys	556 - Johnson City Lindseys	556	Johnson City, TN	Lindseys	11	Same Store
+557	Savannah	GA	31406	10000	LI - District #3	Savannah Lindseys	557 - Savannah Lindseys	557	Savannah, GA	Lindseys	9	Same Store
+558	Newnan	GA	30263	10000	LI - District #5	Newnan Lindseys	558 - Newnan Lindseys	558	Newnan, GA	Lindseys	11	Same Store
+560	Buford	GA	30519	10000	LI - District #5	Buford Lindseys	560 - Buford Lindseys	560	Buford, GA	Lindseys	11	Same Store
+563	Duluth	GA	30096	15000	LI - District #5	Duluth Lindseys	563 - Duluth Lindseys	563	Duluth, GA	Lindseys	11	Same Store
+565	Pasadena	MD	21122	10000	LI - District #1	Pasadena Lindseys	565 - Pasadena Lindseys	565	Pasadena, MD	Lindseys	6	New Store
+566	Ft. Oglethorpe	GA	30742	15000	LI - District #5	Ft. Oglethorpe Lindseys	566 - Ft. Oglethorpe Lindseys	566	Ft. Oglethorpe, GA	Lindseys	11	New Store
+568	Knoxville	TN	37919	10000	LI - District #5	Knoxville Lindseys	568 - Knoxville Lindseys	568	Knoxville, TN	Lindseys	11	New Store
+570	Wilson	NC	27893	10000	LI - District #3	Wilson Lindseys	570 - Wilson Lindseys	570	Wilson, NC	Lindseys	9	New Store
+571	Cookeville	TN	38501	10000	LI - District #5	Cookeville Lindseys	571 - Cookeville Lindseys	571	Cookeville, TN	Lindseys	11	Same Store
+572	Jacksonville	NC	28546	10000	LI - District #3	Jacksonville Lindseys	572 - Jacksonville Lindseys	572	Jacksonville, NC	Lindseys	9	Same Store
+573	Columbia East	SC	29206	10000	LI - District #3	Columbia Lindseys	573 - Columbia Lindseys	573	Columbia East, SC	Lindseys	9	Same Store
+574	Bowling Green	KY	42104	10000	LI - District #5	Bowling Green Lindseys	574 - Bowling Green Lindseys	574	Bowling Green, KY	Lindseys	11	Same Store
+575	Goldsboro	NC	27534	10000	LI - District #3	Goldsboro Lindseys	575 - Goldsboro Lindseys	575	Goldsboro, NC	Lindseys	9	Same Store
+576	Gallatin	TN	37066	15000	LI - District #5	Gallatin Lindseys	576 - Gallatin Lindseys	576	Gallatin, TN	Lindseys	11	Same Store
+577	Elizabethtown	KY	42701	10000	LI - District #5	Elizabethtown Lindseys	577 - Elizabethtown Lindseys	577	Elizabethtown, KY	Lindseys	11	Same Store
+579	Gastonia	NC	28054	15000	LI - District #4	Gastonia Lindseys	579 - Gastonia Lindseys	579	Gastonia, NC	Lindseys	10	Same Store
+580	Chattanooga	TN	37421	15000	LI - District #5	Chattanooga Lindseys	580 - Chattanooga Lindseys	580	Chattanooga, TN	Lindseys	11	Same Store
+581	Kernersville	NC	27284	10000	LI - District #4	Kernersville Lindseys	581 - Kernersville Lindseys	581	Kernersville, NC	Lindseys	10	Same Store
+582	Chambersburg	PA	17201	10000	LI - District #1	Chambersburg Lindseys	582 - Chambersburg Lindseys	582	Chambersburg, PA	Lindseys	6	Same Store
+583	Raleigh	NC	27612	10000	LI - District #3	Raleigh PV Lindseys	583 - Raleigh PV Lindseys	583	Raleigh, NC	Lindseys	9	Same Store

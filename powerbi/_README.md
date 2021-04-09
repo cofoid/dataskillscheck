@@ -1,5 +1,5 @@
 # Power BI Project
-This project was created to allow data analysts and BI developers an opportunity to demonstrate their competency in building a Power BI dashboard. The data required to complete this exercise are located in the data\retail directory. 
+This project was created to allow data analysts and BI developers an opportunity to demonstrate their competency in building a Power BI dashboard. The data required to complete this exercise are located in the https://github.com/cofoid/dataskillscheck/tree/main/data/retail directory. 
 
 If you have not already downloaded Power BI Desktop, you may do so by following this link: https://powerbi.microsoft.com/en-us/downloads/
 
