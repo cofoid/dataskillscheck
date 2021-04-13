@@ -3,7 +3,7 @@ The following exercise should demonstrate your ability to manipulate data using 
 
 # PostgreSQL Install Instructions
 These directions are specific to Windows. If you already have PostgreSQL installed you may skip to the database import section. If you are using another OS, please install PostgreSQL appropriately there and skip to the database import section.
-1. Download Postgresql here (for Windows): https://www.enterprisedb.com/downloads/postgrespostgresql-downloads
+1. Download Postgresql here (for Windows): https://www.enterprisedb.com/downloads/postgresql
 2. Run the Installation
 * Uncheck the box for “Stack Builder” as you won’t need it.
 * When it asks for a password enter something you will remember. You will need it.
@@ -13,10 +13,11 @@ These directions are specific to Windows. If you already have PostgreSQL install
 4. Enter that password from installation.
 5. Double-click on Servers
 6. Right-click on Databases and choose “Create – Database”
-7. Name it “dvdrentals” on the Database field and hit save. 
-8. Right click on the new “dvdrentals” database and choose Restore. 
-9. Leave the first setting on “Custom or Tar” 
-10. On the file name choose the path to the file you saved (dvdrentals.tar)
+7. Name it "dvdrentals" on the Database field and hit save. 
+8. Download the dvdrentals database backup here: https://github.com/cofoid/dataskillscheck/tree/main/data/dvdrental
+9. Right click on the new "dvdrentals" database and choose Restore. 
+10. Leave the first setting on "Custom or Tar"
+11. On the file name choose the path to the file you saved (dvdrentals.tar)
 * Make sure to choose “All Files” under the format section when searching for the file
 * Choose the file from the directory where you downloaded dvdrentals.tar and hit "Select"
 * You should now be able to access the dvdrentals schema.

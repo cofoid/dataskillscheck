@@ -12,3 +12,6 @@ This directory includes instructions for a Power BI project to demonstrate compe
 in Power BI. 
 
 If you have not already downloaded Power BI Desktop, you may do so by following this link: https://powerbi.microsoft.com/en-us/downloads/
+
+## SQL (PostgreSQL)
+This directory includes a guide to setting up a PostgreSQL database and questions to demonstrate competency in basic SQL querying. 
