@@ -2,7 +2,7 @@
 The following exercise should demonstrate your ability to manipulate data using SQL. Please be sure to comment code to indicate what question it answers and feel free to use comments to describe any part of your approach that you believe merits explanation. 
 
 # PostgreSQL Install Instructions
-These directions are specific to Windows. If you already have PostgreSQL installed you may skip to the database import section. If you are using another OS, please install PostgreSQL appropriately there and skip to the database import section.
+## Windows
 1. Download Postgresql here (for Windows): https://www.enterprisedb.com/downloads/postgresql
 2. Run the Installation
 * Uncheck the box for “Stack Builder” as you won’t need it.
@@ -21,10 +21,13 @@ These directions are specific to Windows. If you already have PostgreSQL install
 * Make sure to choose “All Files” under the format section when searching for the file
 * Choose the file from the directory where you downloaded dvdrentals.tar and hit "Select"
 * You should now be able to access the dvdrentals schema.
+## MacOS
+1. Please follow the instructions here: https://www.postgresqltutorial.com/install-postgresql-macos/
+2. Restore the dvdrentals.tar database.
 
 # Instructions
-After installing and setting up the dvdrentals database in postgresql, please open pgAdmin to completely the following questions. If you have any technical problems please contact the person who sent you this link.
-All answers should saved into a txt file; please only submit the SQL vode and not the output!
+After installing and setting up the dvdrentals database in postgresql, please open pgAdmin to complete the following questions. If you have any technical problems please contact the person who sent you this link.
+All answers should saved into a txt file; please only submit the SQL code and not the output!
 ## Questions
 1. What are the email addresses of the customers who live in California? 
 2. Provide a list of all movies with the actor “Nick Wahlberg”. 
