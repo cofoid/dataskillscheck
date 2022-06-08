@@ -3,7 +3,9 @@ The following exercise should demonstrate your ability to manipulate data using 
 
 # PostgreSQL Install Instructions
 ## Windows
-1. Download Postgresql here (for Windows): https://www.enterprisedb.com/downloads/postgresql
+1. Download Postgresql:
+* Installer for Windows: https://www.enterprisedb.com/downloads/postgresql
+* Or if you're feeling Chocolatey: `choco install postgresql` https://community.chocolatey.org/packages/postgresql 
 2. Run the Installation
 * Uncheck the box for “Stack Builder” as you won’t need it.
 * When it asks for a password enter something you will remember. You will need it.
@@ -31,6 +33,11 @@ All answers should saved into a txt file; please only submit the SQL code and no
 ## Questions
 1. What are the email addresses of the customers who live in California? 
 2. Provide a list of all movies with the actor “Nick Wahlberg”. 
-3. What customer has the highest customer ID number whose name starts with an ‘E’ and has an address ID lower than 500. 
-4. What is the average replacement cost for each MPAA rating. Please round to only two decimal places. 
+3. What customer has the highest customer ID number whose last name starts with an ‘E’ and has an address ID lower than 500. 
+4. What is the average replacement cost for each film rating. Please round to only two decimal places. 
 5. Provide a list of customers (first name and last name) who have rented a film in the ‘Horror’ category along with a count of films each customer rented in that category.
+6. What films have not been rented? 
+
+## Questions, too
+7. Rank customers by sales, including the rank number and sales total for each customer.
+8. Rank customers by total sales. For each customer, rank the customer's sales by category. Your final table should show "Total Sales Rank", "Customer Name", "Customer Sales Total", "Rank - Customer Sales in Category",  "Film Category", "Customer Sales in Category" in order.
